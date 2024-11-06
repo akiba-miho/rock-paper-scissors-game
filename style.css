@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  background-color: #f0e68c;
+}
+
+img{
+  width: 240px;
+  height: 240px;
+}
+
+.hide{
+  display: none;
+}
