@@ -87,7 +87,7 @@ reStartButton.onclick = () => {
 
   gameArea.classList.remove('hide');
 
-  imgRival.src = 'img/じゃんけんの敵.png';
+  imgRival.src = 'https://github.com/akiba-miho/rock-paper-scissors-game/blob/main/%E3%81%97%E3%82%99%E3%82%83%E3%82%93%E3%81%91%E3%82%93%E3%81%AE%E6%95%B5.png?raw=true';
   imgGu.classList.remove('hide');
   imgChoki.classList.remove('hide');
   imgPa.classList.remove('hide');
