@@ -47,11 +47,11 @@ if(num === 0){
   
   //相手の選択肢を見せる
   if(randomNum === 0){
-    imgRival.src = 'img/imgGu.png'
+    imgRival.src = 'https://github.com/akiba-miho/rock-paper-scissors-game/blob/main/imgGu.png?raw=true'
   }else if(randomNum === 1){
-    imgRival.src = 'img/imgChoki.png'
+    imgRival.src = 'https://github.com/akiba-miho/rock-paper-scissors-game/blob/main/imgChoki.png?raw=true'
   }else if(randomNum === 2){
-    imgRival.src = 'img/imgPa.png'
+    imgRival.src = 'https://github.com/akiba-miho/rock-paper-scissors-game/blob/main/imgPa.png?raw=true'
   }
 
   //勝敗
